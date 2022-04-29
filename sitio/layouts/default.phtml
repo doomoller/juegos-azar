@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+	    <meta name="author" content="Julio Viera">
+	    <meta name="description" content="<?php echo $this->meta->getDescription()?>">
+	    <meta name="keywords" content="<?php echo $this->meta->getKeywords() ?>">
+	    <title><?php echo $this->meta->getTitle() ?></title>
+		
+					
+		<link rel="stylesheet" type="text/css" href="/css/app.css">
+	    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico">
+    	
+    </head>
+    <body>
+
+		<!-- Cargar React. -->
+  		<!-- Nota: cuando se despliegue, reemplazar "development.js" con "production.min.js". -->
+  		<script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+  		<script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+		<!-- Compilador jsx para testeo -->
+		<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+
+		<main id='root'>
+			<header id="cabecera">
+				<h1>5 de Oro</h1>
+				<nav>
+					<a href="/">Inicio</a>
+					<a href="/bolillas/estadisticas">Estadisticas</a>
+					<a href="/bolillas/recomendadas">Recomendadas</a>
+					<a href="/sorteos/aciertos">Comprobar</a>
+					<a href="/sorteos/historial">Historial</a>
+				</nav>
+			</header>
+			
+			<section id="principal" class="centrado sombra1">
+				<aside id="msg"></aside>
+				<article id="contenido">
+					<?php echo $this->content ?>
+				</article>
+				
+			</section>
+			<footer id="pie" class="centrado">
+				<aside class="links-pie">
+				</aside>
+			</footer>
+		</main>
+		<input type="hidden" id="csrf" value="<?php echo $this->csrf?>">
+		<script type="text/javascript" src="/js/items.js" charset="utf-8"></script>
+		<script type="text/javascript" src="/js/app.js" charset="utf-8"></script>
+	</body>
+</html>

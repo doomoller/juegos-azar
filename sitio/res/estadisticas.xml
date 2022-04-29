@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+<!-- Listado completo de las veces que ha salido cada bolilla desde el 14/06/1998 hasta el 16/03/2014 -->
+<periodo inicio="1998-06-14" fin="2014-03-16">
+    <oro>
+        <b bolilla="1" veces="248"/>
+        <b bolilla="2" veces="231"/>
+        <b bolilla="3" veces="224"/>
+        <b bolilla="4" veces="231"/>
+        <b bolilla="5" veces="247"/>
+        <b bolilla="6" veces="228"/>
+        <b bolilla="7" veces="227"/>
+        <b bolilla="8" veces="241"/>
+        <b bolilla="9" veces="211"/>
+        <b bolilla="10" veces="216"/>
+        <b bolilla="11" veces="228"/>
+        <b bolilla="12" veces="208"/>
+        <b bolilla="13" veces="212"/>
+        <b bolilla="14" veces="258"/>
+        <b bolilla="15" veces="235"/>
+        <b bolilla="16" veces="230"/>
+        <b bolilla="17" veces="206"/>
+        <b bolilla="18" veces="219"/>
+        <b bolilla="19" veces="196"/>
+        <b bolilla="20" veces="217"/>
+        <b bolilla="21" veces="199"/>
+        <b bolilla="22" veces="192"/>
+        <b bolilla="23" veces="216"/>
+        <b bolilla="24" veces="203"/>
+        <b bolilla="25" veces="234"/>
+        <b bolilla="26" veces="225"/>
+        <b bolilla="27" veces="216"/>
+        <b bolilla="28" veces="234"/>
+        <b bolilla="29" veces="262"/>
+        <b bolilla="30" veces="213"/>
+        <b bolilla="31" veces="216"/>
+        <b bolilla="32" veces="228"/>
+        <b bolilla="33" veces="207"/>
+        <b bolilla="34" veces="228"/>
+        <b bolilla="35" veces="223"/>
+        <b bolilla="36" veces="202"/>
+        <b bolilla="37" veces="231"/>
+        <b bolilla="38" veces="223"/>
+        <b bolilla="39" veces="221"/>
+        <b bolilla="40" veces="189"/>
+        <b bolilla="41" veces="217"/>
+        <b bolilla="42" veces="212"/>
+        <b bolilla="43" veces="222"/>
+        <b bolilla="44" veces="206"/>
+    </oro>
+    <revancha>
+        <b bolilla="1" veces="177"/>
+        <b bolilla="2" veces="188"/>
+        <b bolilla="3" veces="198"/>
+        <b bolilla="4" veces="192"/>
+        <b bolilla="5" veces="183"/>
+        <b bolilla="6" veces="177"/>
+        <b bolilla="7" veces="191"/>
+        <b bolilla="8" veces="184"/>
+        <b bolilla="9" veces="175"/>
+        <b bolilla="10" veces="193"/>
+        <b bolilla="11" veces="179"/>
+        <b bolilla="12" veces="177"/>
+        <b bolilla="13" veces="163"/>
+        <b bolilla="14" veces="178"/>
+        <b bolilla="15" veces="179"/>
+        <b bolilla="16" veces="189"/>
+        <b bolilla="17" veces="186"/>
+        <b bolilla="18" veces="185"/>
+        <b bolilla="19" veces="192"/>
+        <b bolilla="20" veces="191"/>
+        <b bolilla="21" veces="187"/>
+        <b bolilla="22" veces="177"/>
+        <b bolilla="23" veces="193"/>
+        <b bolilla="24" veces="175"/>
+        <b bolilla="25" veces="190"/>
+        <b bolilla="26" veces="179"/>
+        <b bolilla="27" veces="188"/>
+        <b bolilla="28" veces="186"/>
+        <b bolilla="29" veces="192"/>
+        <b bolilla="30" veces="186"/>
+        <b bolilla="31" veces="199"/>
+        <b bolilla="32" veces="179"/>
+        <b bolilla="33" veces="162"/>
+        <b bolilla="34" veces="206"/>
+        <b bolilla="35" veces="161"/>
+        <b bolilla="36" veces="178"/>
+        <b bolilla="37" veces="191"/>
+        <b bolilla="38" veces="205"/>
+        <b bolilla="39" veces="179"/>
+        <b bolilla="40" veces="198"/>
+        <b bolilla="41" veces="201"/>
+        <b bolilla="42" veces="163"/>
+        <b bolilla="43" veces="170"/>
+        <b bolilla="44" veces="188"/>
+    </revancha>
+
+</periodo>
+
+<!-- Listado completo de las veces que ha salido cada bolilla desde el 19/03/2014 hasta el 06/09/2020 -->
+<periodo inicio="2014-03-19" fin="2020-09-06">
+    <oro>
+        <b bolilla="1" veces="83"/>
+        <b bolilla="2" veces="90"/>
+        <b bolilla="3" veces="98"/>
+        <b bolilla="4" veces="81"/>
+        <b bolilla="5" veces="82"/>
+        <b bolilla="6" veces="88"/>
+        <b bolilla="7" veces="101"/>
+        <b bolilla="8" veces="77"/>
+        <b bolilla="9" veces="77"/>
+        <b bolilla="10" veces="77"/>
+        <b bolilla="11" veces="81"/>
+        <b bolilla="12" veces="85"/>
+        <b bolilla="13" veces="78"/>
+        <b bolilla="14" veces="90"/>
+        <b bolilla="15" veces="94"/>
+        <b bolilla="16" veces="80"/>
+        <b bolilla="17" veces="88"/>
+        <b bolilla="18" veces="91"/>
+        <b bolilla="19" veces="73"/>
+        <b bolilla="20" veces="97"/>
+        <b bolilla="21" veces="76"/>
+        <b bolilla="22" veces="85"/>
+        <b bolilla="23" veces="73"/>
+        <b bolilla="24" veces="90"/>
+        <b bolilla="25" veces="87"/>
+        <b bolilla="26" veces="69"/>
+        <b bolilla="27" veces="76"/>
+        <b bolilla="28" veces="72"/>
+        <b bolilla="29" veces="73"/>
+        <b bolilla="30" veces="81"/>
+        <b bolilla="31" veces="86"/>
+        <b bolilla="32" veces="80"/>
+        <b bolilla="33" veces="71"/>
+        <b bolilla="34" veces="97"/>
+        <b bolilla="35" veces="92"/>
+        <b bolilla="36" veces="94"/>
+        <b bolilla="37" veces="92"/>
+        <b bolilla="38" veces="95"/>
+        <b bolilla="39" veces="85"/>
+        <b bolilla="40" veces="75"/>
+        <b bolilla="41" veces="66"/>
+        <b bolilla="42" veces="82"/>
+        <b bolilla="43" veces="71"/>
+        <b bolilla="44" veces="83"/>
+        <b bolilla="45" veces="71"/>
+        <b bolilla="46" veces="86"/>
+        <b bolilla="47" veces="79"/>
+        <b bolilla="48" veces="80"/>
+    </oro>
+    <revancha>
+        <b bolilla="1" veces="77"/>
+        <b bolilla="2" veces="59"/>
+        <b bolilla="3" veces="65"/>
+        <b bolilla="4" veces="57"/>
+        <b bolilla="5" veces="77"/>
+        <b bolilla="6" veces="74"/>
+        <b bolilla="7" veces="61"/>
+        <b bolilla="8" veces="58"/>
+        <b bolilla="9" veces="74"/>
+        <b bolilla="10" veces="53"/>
+        <b bolilla="11" veces="75"/>
+        <b bolilla="12" veces="79"/>
+        <b bolilla="13" veces="59"/>
+        <b bolilla="14" veces="71"/>
+        <b bolilla="15" veces="69"/>
+        <b bolilla="16" veces="70"/>
+        <b bolilla="17" veces="83"/>
+        <b bolilla="18" veces="56"/>
+        <b bolilla="19" veces="70"/>
+        <b bolilla="20" veces="58"/>
+        <b bolilla="21" veces="81"/>
+        <b bolilla="22" veces="72"/>
+        <b bolilla="23" veces="74"/>
+        <b bolilla="24" veces="59"/>
+        <b bolilla="25" veces="72"/>
+        <b bolilla="26" veces="63"/>
+        <b bolilla="27" veces="73"/>
+        <b bolilla="28" veces="60"/>
+        <b bolilla="29" veces="78"/>
+        <b bolilla="30" veces="70"/>
+        <b bolilla="31" veces="80"/>
+        <b bolilla="32" veces="58"/>
+        <b bolilla="33" veces="70"/>
+        <b bolilla="34" veces="57"/>
+        <b bolilla="35" veces="83"/>
+        <b bolilla="36" veces="73"/>
+        <b bolilla="37" veces="69"/>
+        <b bolilla="38" veces="71"/>
+        <b bolilla="39" veces="75"/>
+        <b bolilla="40" veces="67"/>
+        <b bolilla="41" veces="64"/>
+        <b bolilla="42" veces="76"/>
+        <b bolilla="43" veces="76"/>
+        <b bolilla="44" veces="69"/>
+        <b bolilla="45" veces="59"/>
+        <b bolilla="46" veces="62"/>
+        <b bolilla="47" veces="84"/>
+        <b bolilla="48" veces="75"/>
+    </revancha>
+
+</periodo>
+
+
+<!-- Listado completo de las veces que ha salido cada bolilla desde el 09/09/2020 -->
+<periodo inicio="2020-09-09" fin="hoy">
+    <oro>
+        <b bolilla="1" veces="25"/>
+        <b bolilla="2" veces="20"/>
+        <b bolilla="3" veces="24"/>
+        <b bolilla="4" veces="13"/>
+        <b bolilla="5" veces="25"/>
+        <b bolilla="6" veces="16"/>
+        <b bolilla="7" veces="27"/>
+        <b bolilla="8" veces="21"/>
+        <b bolilla="9" veces="28"/>
+        <b bolilla="10" veces="28"/>
+        <b bolilla="11" veces="21"/>
+        <b bolilla="12" veces="20"/>
+        <b bolilla="13" veces="30"/>
+        <b bolilla="14" veces="26"/>
+        <b bolilla="15" veces="16"/>
+        <b bolilla="16" veces="18"/>
+        <b bolilla="17" veces="21"/>
+        <b bolilla="18" veces="33"/>
+        <b bolilla="19" veces="14"/>
+        <b bolilla="20" veces="17"/>
+        <b bolilla="21" veces="17"/>
+        <b bolilla="22" veces="18"/>
+        <b bolilla="23" veces="16"/>
+        <b bolilla="24" veces="18"/>
+        <b bolilla="25" veces="20"/>
+        <b bolilla="26" veces="14"/>
+        <b bolilla="27" veces="29"/>
+        <b bolilla="28" veces="12"/>
+        <b bolilla="29" veces="21"/>
+        <b bolilla="30" veces="14"/>
+        <b bolilla="31" veces="22"/>
+        <b bolilla="32" veces="12"/>
+        <b bolilla="33" veces="21"/>
+        <b bolilla="34" veces="17"/>
+        <b bolilla="35" veces="29"/>
+        <b bolilla="36" veces="15"/>
+        <b bolilla="37" veces="15"/>
+        <b bolilla="38" veces="21"/>
+        <b bolilla="39" veces="20"/>
+        <b bolilla="40" veces="22"/>
+        <b bolilla="41" veces="26"/>
+        <b bolilla="42" veces="24"/>
+        <b bolilla="43" veces="26"/>
+        <b bolilla="44" veces="27"/>
+        <b bolilla="45" veces="23"/>
+        <b bolilla="46" veces="19"/>
+        <b bolilla="47" veces="22"/>
+        <b bolilla="48" veces="28"/>
+    </oro>
+    <revancha>
+        <b bolilla="1" veces="16"/>
+        <b bolilla="2" veces="18"/>
+        <b bolilla="3" veces="20"/>
+        <b bolilla="4" veces="19"/>
+        <b bolilla="5" veces="19"/>
+        <b bolilla="6" veces="21"/>
+        <b bolilla="7" veces="19"/>
+        <b bolilla="8" veces="19"/>
+        <b bolilla="9" veces="10"/>
+        <b bolilla="10" veces="11"/>
+        <b bolilla="11" veces="16"/>
+        <b bolilla="12" veces="22"/>
+        <b bolilla="13" veces="12"/>
+        <b bolilla="14" veces="17"/>
+        <b bolilla="15" veces="15"/>
+        <b bolilla="16" veces="20"/>
+        <b bolilla="17" veces="21"/>
+        <b bolilla="18" veces="14"/>
+        <b bolilla="19" veces="17"/>
+        <b bolilla="20" veces="17"/>
+        <b bolilla="21" veces="23"/>
+        <b bolilla="22" veces="21"/>
+        <b bolilla="23" veces="13"/>
+        <b bolilla="24" veces="16"/>
+        <b bolilla="25" veces="11"/>
+        <b bolilla="26" veces="18"/>
+        <b bolilla="27" veces="18"/>
+        <b bolilla="28" veces="10"/>
+        <b bolilla="29" veces="19"/>
+        <b bolilla="30" veces="17"/>
+        <b bolilla="31" veces="19"/>
+        <b bolilla="32" veces="20"/>
+        <b bolilla="33" veces="23"/>
+        <b bolilla="34" veces="20"/>
+        <b bolilla="35" veces="16"/>
+        <b bolilla="36" veces="22"/>
+        <b bolilla="37" veces="13"/>
+        <b bolilla="38" veces="19"/>
+        <b bolilla="39" veces="23"/>
+        <b bolilla="40" veces="20"/>
+        <b bolilla="41" veces="23"/>
+        <b bolilla="42" veces="16"/>
+        <b bolilla="43" veces="21"/>
+        <b bolilla="44" veces="15"/>
+        <b bolilla="45" veces="17"/>
+        <b bolilla="46" veces="21"/>
+        <b bolilla="47" veces="25"/>
+        <b bolilla="48" veces="18"/>
+    </revancha>
+
+</periodo>
+
+
+</root>

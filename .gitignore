@@ -1,0 +1,6 @@
+*.log
+5-de-oro.log
+apache_errs.log
+vendor/*
+composer.json
+composer.lock
